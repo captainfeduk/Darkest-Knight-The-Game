@@ -1,3 +1,0 @@
-*.exe filter=lfs diff=lfs merge=lfs -text
-*.dll filter=lfs diff=lfs merge=lfs -text
-Darkest[[:space:]]Knight_Data/** filter=lfs diff=lfs merge=lfs -text
